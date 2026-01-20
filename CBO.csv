@@ -1,0 +1,72 @@
+Partner/Site,Borough,Delivery Address,Distribution Address,Delivery Time,Distro Time,Meal Format,Cuisine Preference
+Central Brooklyn Housing Coalition,Manhattan,"95 Atlantic Ave, Brooklyn, NY 11201","12 Richmond Ter, Staten Island, NY 10301",,,Variable,Variable; Afro-latino
+Queensbridge Community Services,Staten Island,"95 Atlantic Ave, Brooklyn, NY 11201","321 Queens Blvd, Queens, NY 11101",10:00 AM - 12:00 PM,12:00 - 1:00 PM,Frozen Pans,Variable
+Brooklyn Youth Collective,Bronx,"654 Bay St, Staten Island, NY 10301","88 Delancey St, New York, NY 10002",9:30 - 10:00 AM,11:00 AM (soft start) - 1:00 PM,Cold IMs,Variable
+South Bronx Food Partners,Queens,"456 E Tremont Ave, Bronx, NY 10457","123 W 125th St, New York, NY 10027",10:00 AM,10:00 AM - 6:00 PM,Sandwiches,Variable
+Harlem Community Action Network,Bronx,"210 Jerome Ave, Bronx, NY 10452","321 Queens Blvd, Queens, NY 11101",11:45 AM,12:00 PM,Hot Pans,Variable
+Staten Island Community Outreach,Bronx,"95 Atlantic Ave, Brooklyn, NY 11201","210 Jerome Ave, Bronx, NY 10452",1:00 - 1:30 PM,2:00 - 2:30 PM,Hot IMs,Halal; South Asian
+South Bronx Food Partners,Brooklyn,"654 Bay St, Staten Island, NY 10301","88 Delancey St, New York, NY 10002",1:00 - 1:30 PM,2:00 - 2:30 PM,Hot IMs,Halal; South Asian
+Queensbridge Community Services,Queens,"12 Richmond Ter, Staten Island, NY 10301","321 Queens Blvd, Queens, NY 11101",10:00 AM,,Cold IMs,Southern American/Soul Food
+Staten Island Community Outreach,Staten Island,"41-15 34th St, Queens, NY 11101","210 Jerome Ave, Bronx, NY 10452",4:30-4:45 PM,6:00 - 7:00 PM,Hot IMs,Halal; South Asian
+Brooklyn Youth Collective,Staten Island,"210 Jerome Ave, Bronx, NY 10452","41-15 34th St, Queens, NY 11101",8:00 - 9:00 AM,11:30 AM - 1:00 PM,Cold Pans,Variable; Latin American
+Uptown Wellness Initiative,Brooklyn,"12 Richmond Ter, Staten Island, NY 10301","321 Queens Blvd, Queens, NY 11101",7:00 AM - 2:00 PM (CBO pick up),home deliveries,Frozen IMs,American
+Bronx Neighborhood Alliance,Staten Island,"210 Jerome Ave, Bronx, NY 10452","12 Richmond Ter, Staten Island, NY 10301",8:00 - 8:30 AM (W),12:00 - 2:00 PM,Cold Pans,Variable; Southern American/Soul Food
+Harlem Community Action Network,Staten Island,"456 E Tremont Ave, Bronx, NY 10457","123 W 125th St, New York, NY 10027",5:30-6:30 PM (W),8:00 AM,Cold IMs,Kosher; Traditional European Kosher Food
+Bronx Neighborhood Alliance,Manhattan,"123 W 125th St, New York, NY 10027","12 Richmond Ter, Staten Island, NY 10301",pending confirmation,"12:00 - 1:00 PM (lunch), 5:30 - 6:30 PM (dinner)",Cold Pans,American
+Queens Family Resource Center,Queens,"789 Flatbush Ave, Brooklyn, NY 11226","123 W 125th St, New York, NY 10027",12:30 - 2:30 PM (Fridays),10:00 - 11:00 AM,Cold Pans,American
+Uptown Wellness Initiative,Staten Island,"95 Atlantic Ave, Brooklyn, NY 11201","789 Flatbush Ave, Brooklyn, NY 11226",10:00 - 11:15 AM,10:00 AM,Hot IMs,Chinese
+South Bronx Food Partners,Staten Island,"41-15 34th St, Queens, NY 11101","789 Flatbush Ave, Brooklyn, NY 11226",10:00 - 11:15 AM,10:30 - 11:30 AM,Cold IMs,Chinese
+Staten Island Community Outreach,Manhattan,"12 Richmond Ter, Staten Island, NY 10301","789 Flatbush Ave, Brooklyn, NY 11226",11:30 AM - 1:00 PM,1:00 - 3:00 PM,Hot IMs,Variable
+Staten Island Community Outreach,Brooklyn,"321 Queens Blvd, Queens, NY 11101","321 Queens Blvd, Queens, NY 11101",9:00 AM (CBO pick up),10:30  AM - 12:00 PM,Hot IMs,Southern American/Soul Food
+Bronx Neighborhood Alliance,Brooklyn,"789 Flatbush Ave, Brooklyn, NY 11226","321 Queens Blvd, Queens, NY 11101",9:30 - 10:00 AM,10:00 - 11:00 AM,Hot IMs,Southern American/Soul Food
+Queensbridge Community Services,Bronx,"789 Flatbush Ave, Brooklyn, NY 11226","456 E Tremont Ave, Bronx, NY 10457",9:30 AM,10:30  AM - 12:00 PM,Hot IMs,Southern American/Soul Food
+Lower East Side Mutual Aid,Bronx,"456 E Tremont Ave, Bronx, NY 10457","95 Atlantic Ave, Brooklyn, NY 11201",5 - 8:00 PM (W),friday afternoon,frozen IMs,Kosher; Traditional European Kosher Food
+Queens Family Resource Center,Brooklyn,"95 Atlantic Ave, Brooklyn, NY 11201","41-15 34th St, Queens, NY 11101",6:30-7:00 PM,7:30 - 8:30 PM,Hot IMs,Halal; Variable
+Queensbridge Community Services,Staten Island,"321 Queens Blvd, Queens, NY 11101","321 Queens Blvd, Queens, NY 11101",7 - 8:00 PM (W),"7:00 - 9:00 PM (Wednesday), 4:30 - 5:15 PM (Thursday), 9:00 AM - 12:00 PM (Sunday)",frozen IMs,Kosher; Traditional European Kosher Food
+Central Brooklyn Housing Coalition,Brooklyn,"456 E Tremont Ave, Bronx, NY 10457","41-15 34th St, Queens, NY 11101",8:00 - 9:00 AM,9:00 AM - 12:00 PM,Cold IMs,Latin American
+Harlem Community Action Network,Staten Island,"41-15 34th St, Queens, NY 11101","12 Richmond Ter, Staten Island, NY 10301",10:00 - 11:00 AM (T),10:30 - 11:00 AM,Cold Pans,Latin American
+South Bronx Food Partners,Brooklyn,"95 Atlantic Ave, Brooklyn, NY 11201","41-15 34th St, Queens, NY 11101",1:15 - 1:30 PM,1:30 - 2:30 PM,Hot IMs,Halal; Variable; West African
+Queensbridge Community Services,Bronx,"654 Bay St, Staten Island, NY 10301","12 Richmond Ter, Staten Island, NY 10301",8:00 AM (in-house). 9:00 AM - 11:00 AM (SCK),"8:00 AM - 9:00 AM (Monkworx Meals M/Tu/F), 10:00 AM - 12:00 PM (SCK Meal W/Th/Sat)","Cold Pans (from SCK Wed and Sat),  Hot and Cold Individual Meals (from Monkworx)",Latin American; Carribbean
+Brooklyn Youth Collective,Manhattan,"88 Delancey St, New York, NY 10002","88 Delancey St, New York, NY 10002",8:00 PM,8:00 PM - 10:00 PM,Hot and Cold Individual Meals (from Monkworx),Latin American; Carribbean
+Lower East Side Mutual Aid,Staten Island,"210 Jerome Ave, Bronx, NY 10452","789 Flatbush Ave, Brooklyn, NY 11226",9:00 - 9:30 AM,9:00 AM - 12:00 PM,IMs,Variable
+Bronx Neighborhood Alliance,Bronx,"456 E Tremont Ave, Bronx, NY 10457","41-15 34th St, Queens, NY 11101",6:45 - 7:15 AM,9:00 AM - 12:00 PM,Frozen IMs,Variable
+Staten Island Community Outreach,Manhattan,"789 Flatbush Ave, Brooklyn, NY 11226","12 Richmond Ter, Staten Island, NY 10301",10:30 AM - 11 AM,11:00 AM - 1:00 PM,,Southern American/Soul Food
+Staten Island Community Outreach,Queens,"88 Delancey St, New York, NY 10002","210 Jerome Ave, Bronx, NY 10452",around 9 AM,11:00 AM - 12:30 PM (Wed) variable (other days),"Frozen IMs from Agape
+Pans from Sophie's Cuban",Southern American/Soul Food; Afro-Carribbean
+Uptown Wellness Initiative,Manhattan,"789 Flatbush Ave, Brooklyn, NY 11226","123 W 125th St, New York, NY 10027",9:00 - 9:30 AM,11:00 AM - 12:00 PM (sometimes starting earlier),Hot Pans (protein and veg only),Variable
+Queens Family Resource Center,Manhattan,"95 Atlantic Ave, Brooklyn, NY 11201","456 E Tremont Ave, Bronx, NY 10457",7:30 - 9:30 AM Tues-Fri at 1 Havemeyer,11:45 AM - 12:15 PM,Warm IMs from Frozen Pans,Variable; Latin American
+Queens Family Resource Center,Manhattan,"95 Atlantic Ave, Brooklyn, NY 11201","95 Atlantic Ave, Brooklyn, NY 11201",7:30 - 9:30 AM Tues-Fri at 1 Havemeyer,12:30 - 1:00 PM,Warm IMs from Frozen Pans,Variable; Latin American
+Lower East Side Mutual Aid,Bronx,"789 Flatbush Ave, Brooklyn, NY 11226","456 E Tremont Ave, Bronx, NY 10457",7:30 - 9:30 AM Tues-Fri at 1 Havemeyer,11:00 - 11:30 AM,Warm IMs from Frozen Pans,Variable; Latin American
+Lower East Side Mutual Aid,Manhattan,"41-15 34th St, Queens, NY 11101","41-15 34th St, Queens, NY 11101",7:30 - 9:30 AM Tues-Fri at 1 Havemeyer,12:00 - 12:30 PM,Warm IMs from Frozen Pans,Variable; Latin American
+South Bronx Food Partners,Manhattan,"654 Bay St, Staten Island, NY 10301","456 E Tremont Ave, Bronx, NY 10457",7:30 - 9:30 AM Tues-Fri at 1 Havemeyer,12:30 - 1:00 PM,Warm IMs from Frozen Pans,Variable; Latin American
+Queens Family Resource Center,Bronx,"210 Jerome Ave, Bronx, NY 10452","88 Delancey St, New York, NY 10002",7:30 - 9:30 AM Tues-Fri at 1 Havemeyer,12:30 - 1:00 PM,Warm IMs from Frozen Pans,Variable; Latin American
+Queensbridge Community Services,Manhattan,"12 Richmond Ter, Staten Island, NY 10301","210 Jerome Ave, Bronx, NY 10452",7:30 - 9:30 AM Tues-Fri at 1 Havemeyer,10:00 - 10:30 AM,Warm IMs from Frozen Pans,Variable; Latin American
+Central Brooklyn Housing Coalition,Manhattan,"210 Jerome Ave, Bronx, NY 10452","456 E Tremont Ave, Bronx, NY 10457",7:30 - 9:30 AM Tues-Fri at 1 Havemeyer,"12:15 - 12:45 (Mon), 12:30 - 1:00 PM (Thur)",Warm IMs from Frozen Pans,Variable; Latin American
+Bronx Neighborhood Alliance,Bronx,"456 E Tremont Ave, Bronx, NY 10457","88 Delancey St, New York, NY 10002",7:30 - 9:30 AM Tues-Fri at 1 Havemeyer,12:30 - 1:00 PM,Warm IMs from Frozen Pans,Variable; Latin American
+Staten Island Community Outreach,Staten Island,"41-15 34th St, Queens, NY 11101","95 Atlantic Ave, Brooklyn, NY 11201",9:30 - 10:00 AM pick up,10:00 AM - 12:00 PM or until meals are out,Cold IMs,Variable; Latin American
+Queens Family Resource Center,Manhattan,"12 Richmond Ter, Staten Island, NY 10301","12 Richmond Ter, Staten Island, NY 10301",8:30 - 8:45 AM,1:00 - 4:00 PM,Cold Pans,Southern American/Soul Food
+Uptown Wellness Initiative,Brooklyn,"321 Queens Blvd, Queens, NY 11101","321 Queens Blvd, Queens, NY 11101",9:30 AM pick up (Tuesdays only),10:00 AM - 12:00 PM,Cold IMs,Variable
+Queens Family Resource Center,Staten Island,"123 W 125th St, New York, NY 10027","789 Flatbush Ave, Brooklyn, NY 11226",10:30 - 11:15 AM,11:30 AM - 12:30 PM,Cold IMs,Variable
+Bronx Neighborhood Alliance,Manhattan,"41-15 34th St, Queens, NY 11101","789 Flatbush Ave, Brooklyn, NY 11226",9:00 - 11:00 AM,4:00 PM,Cold IMs,Variable; Latin American/Carribbean
+South Bronx Food Partners,Queens,"210 Jerome Ave, Bronx, NY 10452","789 Flatbush Ave, Brooklyn, NY 11226",8:00 - 10:00 AM,2:00 PM,Cold IMs,Variable; Latin American/Carribbean
+Staten Island Community Outreach,Brooklyn,"12 Richmond Ter, Staten Island, NY 10301","789 Flatbush Ave, Brooklyn, NY 11226",8:00 - 10:00 AM,10:00 AM,Cold IMs,Variable; Latin American/Carribbean
+South Bronx Food Partners,Staten Island,"456 E Tremont Ave, Bronx, NY 10457","456 E Tremont Ave, Bronx, NY 10457",8:00 - 10:00 AM,8-10 AM,Cold IMs,Variable; Latin American/Carribbean
+Staten Island Community Outreach,Bronx,"95 Atlantic Ave, Brooklyn, NY 11201","123 W 125th St, New York, NY 10027",8:00 - 10:00 AM,1:00 PM,Cold IMs,Variable; Latin American/Carribbean
+Harlem Community Action Network,Staten Island,"41-15 34th St, Queens, NY 11101","41-15 34th St, Queens, NY 11101",9:00 - 11:00 AM,10:00 AM,Cold IMs,Variable; Latin American/Carribbean
+Uptown Wellness Initiative,Manhattan,"456 E Tremont Ave, Bronx, NY 10457","12 Richmond Ter, Staten Island, NY 10301",9:00 - 11:00 AM,11-12,Cold IMs,Variable; Latin American/Carribbean
+South Bronx Food Partners,Manhattan,"95 Atlantic Ave, Brooklyn, NY 11201","321 Queens Blvd, Queens, NY 11101",9:00 - 11:00 AM,6:00 PM,Cold IMs,Variable; Latin American/Carribbean
+Central Brooklyn Housing Coalition,Staten Island,"654 Bay St, Staten Island, NY 10301","41-15 34th St, Queens, NY 11101",10:00 AM - 12:00 PM,10AM-Noon,Cold IMs,Variable; Latin American/Carribbean
+Staten Island Community Outreach,Manhattan,"95 Atlantic Ave, Brooklyn, NY 11201","789 Flatbush Ave, Brooklyn, NY 11226",8:00 - 10:00 AM,8-10AM,Cold IMs,Variable; Latin American/Carribbean
+Staten Island Community Outreach,Queens,"95 Atlantic Ave, Brooklyn, NY 11201","456 E Tremont Ave, Bronx, NY 10457",9:00 - 11:00 AM,1-3,Cold IMs,Variable; Latin American/Carribbean
+Lower East Side Mutual Aid,Bronx,"12 Richmond Ter, Staten Island, NY 10301","789 Flatbush Ave, Brooklyn, NY 11226",9:00 - 11:00 AM,12-1,Cold IMs,Variable; Latin American/Carribbean
+Queens Family Resource Center,Manhattan,"456 E Tremont Ave, Bronx, NY 10457","654 Bay St, Staten Island, NY 10301",10:00 AM - 12:00 PM,12:00 PM,Cold IMs,Variable; Latin American/Carribbean
+Lower East Side Mutual Aid,Manhattan,"12 Richmond Ter, Staten Island, NY 10301","88 Delancey St, New York, NY 10002",10:00 AM - 12:00 PM,9-11AM,Cold IMs,Variable; Latin American/Carribbean
+Bronx Neighborhood Alliance,Manhattan,"123 W 125th St, New York, NY 10027","654 Bay St, Staten Island, NY 10301",11:00 AM (Tu),2:00–4:00 PM and 6:00–9:00 PM,"Cold pans (SCK), Cold IMs (Tacombi)",Variable; Latin American/Carribbean
+Lower East Side Mutual Aid,Bronx,"41-15 34th St, Queens, NY 11101","41-15 34th St, Queens, NY 11101",2:45 - 3:00 PM,3:00 - 3:30 PM,Hot IMs,Variable; Latin American/Carribbean
+Queens Family Resource Center,Brooklyn,"95 Atlantic Ave, Brooklyn, NY 11201","123 W 125th St, New York, NY 10027",10:00 AM,10:00 - 11:30 AM,Hot IMs,Southern American/Soul Food
+Brooklyn Youth Collective,Bronx,"123 W 125th St, New York, NY 10027","210 Jerome Ave, Bronx, NY 10452",7:15 - 7:45 AM,9:30 AM - 12:30 PM,Pans,Variable; Latin American
+Uptown Wellness Initiative,Brooklyn,"456 E Tremont Ave, Bronx, NY 10457","456 E Tremont Ave, Bronx, NY 10457",11:00 AM - 12:00 PM,12:00 - 2:00 PM,Cold IMs,Southern American/Soul Food; Afro-Carribbean
+Lower East Side Mutual Aid,Staten Island,"41-15 34th St, Queens, NY 11101","95 Atlantic Ave, Brooklyn, NY 11201",11:30 AM - 12:30 PM,1:00 - 3:00 PM,Hot IMs,Variable
+Lower East Side Mutual Aid,Bronx,"41-15 34th St, Queens, NY 11101","123 W 125th St, New York, NY 10027",Pick up,"residents - 12:30 - 1:00 PM, street 1:00 PM - 2:00 PM",Cold IMs,Variable; Latin American
+Central Brooklyn Housing Coalition,Brooklyn,"654 Bay St, Staten Island, NY 10301","654 Bay St, Staten Island, NY 10301",9:00 - 9:30 AM,10:30 AM - 11:30 AM,Hot IMs,Variable; Latin American
+Staten Island Community Outreach,Queens,"88 Delancey St, New York, NY 10002","789 Flatbush Ave, Brooklyn, NY 11226",8:00 - 9:00 AM,"10:00 - 11:30 AM, 1:00 - 1:30 PM",Cold IMs,Kosher; Traditional European Kosher Food
